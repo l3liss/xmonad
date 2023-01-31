@@ -17,5 +17,5 @@ Config { font = "-misc-fixed-*-*-*-*-12-*-*-*-*-*-*-*"
   ]
   , sepChar = "%"
   , alignSep = "}{"
-  , template = "%StdinReader% }{ %bitcoin% | %cpu% | %memory% | %battery% | <fc=#ffb86c>%date%</fc>"
+  , template = "%StdinReader% }{ %cpu% | %memory% | %battery% | <fc=#ffb86c>%date%</fc>"
 }
